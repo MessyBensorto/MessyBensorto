@@ -1,0 +1,65 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+  }
+  
+  .letter {
+    background-color: white;
+    width: 80%;
+    border: 1px solid #ddd;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .letter-header {
+    text-align: center;
+  }
+  
+  .letter-header h1 {
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  .letter-header p {
+    font-size: 16px;
+    margin: 5px 0;
+  }
+  
+  .letter-date {
+    text-align: right;
+    margin-top: 10px;
+  }
+  
+  .letter-body {
+    margin-top: 20px;
+  }
+  
+  .letter-body p {
+    font-size: 16px;
+    margin: 10px 0;
+    line-height: 1.4;
+    text-align: left;
+  }
+  .underline-text {
+  text-decoration: underline;
+}
+
+
+  .letter-body p {
+    font-size: 16px;
+    margin: 10px 0;
+    line-height: 1.4;
+    text-align: left;
+  }
+  .letter-body2 p{
+    font-size: 16px;
+    margin: 10px 0;
+    line-height: 1.4;
+    text-align: left;
+    padding: 10px 0;
+  }
